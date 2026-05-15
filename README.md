@@ -16,7 +16,7 @@ That’s who I am — in testing and outside of it too.
 # 🌱 Currently Upskilling
 
 ![Playwright](https://img.shields.io/badge/PLAYWRIGHT-brightgreen?style=for-the-badge)
-![GenAI Testing](https://img.shields.io/badge/GENAI%20TESTING-green?style=for-the-badge)
+![GenAI Testing](https://img.shields.io/badge/GENAI%20TESTING-orange?style=for-the-badge)
 ![AI_Application_Testing](https://img.shields.io/badge/AI%20Application%20Testing-green?style=for-the-badge)
 
 ---
@@ -69,15 +69,8 @@ That’s who I am — in testing and outside of it too.
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiGore&theme=tokyonight" height="180em"/>
 </p>
-![Feel free to reach out via LinkedIn:](https://www.linkedin.com/in/shruti-gore/)
+
 ---
 
 # 🌐 Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shruti-gore/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-</p>
-
----
+![Feel free to reach out via LinkedIn:](https://www.linkedin.com/in/shruti-gore/)
