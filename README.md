@@ -73,4 +73,4 @@ That’s who I am — in testing and outside of it too.
 ---
 
 # 🌐 Let's Connect
-![Feel free to reach out via LinkedIn:] -> https://www.linkedin.com/in/shruti-gore
+Feel free to reach out via LinkedIn -> https://www.linkedin.com/in/shruti-gore
