@@ -1,12 +1,99 @@
-# Shruti-Gore
-SDET· 5 years · Test Automation · Always upskilling  I show up fully - patient, persistent, and genuinely passionate about what I do. As SDET, that means staying committed, working through challenges with focus, and not stopping until I get things right. That’s who I am - and outside of it too. Committed to getting  little better every single day ✨
-🌱 Currently Upskilling
-[Playwright](https://playwright.dev/), GEN AI Testing, AI Application Testing
-Tools
-[Selenium](https://www.selenium.dev/)  [Postman](https://www.postman.com/)  [Maven](https://maven.apache.org/) [Jenkins](https://www.jenkins.io/) [Git](https://git-scm.com/) [GitHub](https://github.com/) [Jira](https://www.atlassian.com/software/jira)
+````md
+<h1 align="center">Hi 👋, I'm Shruti Gore</h1>
+<h3 align="center">SDET | Test Automation Engineer | Always Upskilling 🚀</h3>
 
-Languages
-[Java](https://www.java.com/en/) [SQL](https://www.mysql.com/),https://learn.microsoft.com/en-us/dotnet/csharp/,https://www.python.org/
+<p align="center">
+  <a href="https://www.linkedin.com/in/shruti-gore/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shruti%20Gore-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge"/>
+</p>
 
-Process
-Agile Scrum SDLC STLC Defect Management
+---
+
+# ✨ About Me
+
+```yaml
+SDET · 5 years · Test Automation · Always upskilling
+````
+
+I show up fully — patient, persistent, and genuinely passionate about what I do.
+As an SDET, that means staying committed, working through challenges with focus, and not stopping until I get things right.
+
+That’s who I am — in testing and outside of it too.
+
+✨ Committed to getting a little better every single day.
+
+---
+
+# 🌱 Currently Upskilling
+
+![Playwright](https://img.shields.io/badge/PLAYWRIGHT-brightgreen?style=for-the-badge)
+![Rest Assured](https://img.shields.io/badge/REST%20ASSURED-brightgreen?style=for-the-badge)
+![GenAI Testing](https://img.shields.io/badge/GENAI%20TESTING-purple?style=for-the-badge)
+
+---
+
+# 🚀 What I'm Good With
+
+## 🧪 Testing
+
+![Automation](https://img.shields.io/badge/AUTOMATION-brightgreen?style=for-the-badge)
+![Manual](https://img.shields.io/badge/MANUAL-brightgreen?style=for-the-badge)
+![API](https://img.shields.io/badge/API-brightgreen?style=for-the-badge)
+![Regression](https://img.shields.io/badge/REGRESSION-brightgreen?style=for-the-badge)
+![Functional](https://img.shields.io/badge/FUNCTIONAL-brightgreen?style=for-the-badge)
+![Web](https://img.shields.io/badge/WEB-brightgreen?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/MOBILE-brightgreen?style=for-the-badge)
+![STLC](https://img.shields.io/badge/STLC-orange?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-orange?style=for-the-badge)
+![Agile Scrum](https://img.shields.io/badge/AGILE%20SCRUM-blue?style=for-the-badge)
+![Defect Management](https://img.shields.io/badge/DEFECT%20MANAGEMENT-red?style=for-the-badge)
+
+---
+
+# 🛠️ Tools & Technologies
+
+![Selenium](https://img.shields.io/badge/SELENIUM-green?style=for-the-badge\&logo=selenium)
+![Postman](https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge\&logo=postman)
+![Maven](https://img.shields.io/badge/MAVEN-red?style=for-the-badge\&logo=apachemaven)
+![Jenkins](https://img.shields.io/badge/JENKINS-darkred?style=for-the-badge\&logo=jenkins)
+![Git](https://img.shields.io/badge/GIT-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge\&logo=github)
+![Jira](https://img.shields.io/badge/JIRA-blue?style=for-the-badge\&logo=jira)
+
+---
+
+# 💻 Languages
+
+![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge\&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=mysql)
+![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge\&logo=csharp)
+![Python](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge\&logo=python)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrutiGore&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiGore&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+# 🌐 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shruti-gore/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ “Perfection is not attainable, but if we chase perfection, we can catch excellence.” ✨
+</p>
+```
