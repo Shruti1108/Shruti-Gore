@@ -79,8 +79,3 @@ That’s who I am — in testing and outside of it too.
 </p>
 
 ---
-
-<p align="center">
-✨ “Perfection is not attainable, but if we chase perfection, we can catch excellence.” ✨
-</p>
-```
