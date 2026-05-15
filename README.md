@@ -58,6 +58,7 @@ That’s who I am — in testing and outside of it too.
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=mysql)
 ![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge\&logo=csharp)
 ![Python](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge\&logo=openjdk)
 
 ---
 
@@ -68,7 +69,7 @@ That’s who I am — in testing and outside of it too.
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiGore&theme=tokyonight" height="180em"/>
 </p>
-
+![Feel free to reach out via LinkedIn:](https://www.linkedin.com/in/shruti-gore/)
 ---
 
 # 🌐 Let's Connect
