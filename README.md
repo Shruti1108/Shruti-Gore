@@ -1,22 +1,5 @@
-````md
-<h1 align="center">Hi 👋, I'm Shruti Gore</h1>
-<h3 align="center">SDET | Test Automation Engineer | Always Upskilling 🚀</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shruti-gore/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shruti%20Gore-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge"/>
-</p>
-
----
-
-# ✨ About Me
-
-```yaml
-SDET · 5 years · Test Automation · Always upskilling
-````
-
+I'm Shruti Gore
+SDET | Test Automation Engineer | Always Upskilling 🚀
 I show up fully — patient, persistent, and genuinely passionate about what I do.
 As an SDET, that means staying committed, working through challenges with focus, and not stopping until I get things right.
 
@@ -29,7 +12,6 @@ That’s who I am — in testing and outside of it too.
 # 🌱 Currently Upskilling
 
 ![Playwright](https://img.shields.io/badge/PLAYWRIGHT-brightgreen?style=for-the-badge)
-![Rest Assured](https://img.shields.io/badge/REST%20ASSURED-brightgreen?style=for-the-badge)
 ![GenAI Testing](https://img.shields.io/badge/GENAI%20TESTING-purple?style=for-the-badge)
 
 ---
