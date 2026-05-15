@@ -1,6 +1,6 @@
 Shruti Gore 
 ---
-![Open To Work](https://img.shields.io/badge/OpenToWork-purple?style=for-the-badge)
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-purple?style=for-the-badge)
 
 ___
 
@@ -17,7 +17,8 @@ That’s who I am — in testing and outside of it too.
 # 🌱 Currently Upskilling
 
 ![Playwright](https://img.shields.io/badge/PLAYWRIGHT-brightgreen?style=for-the-badge)
-![GenAI Testing](https://img.shields.io/badge/GENAI%20TESTING-purple?style=for-the-badge)
+![GenAI Testing](https://img.shields.io/badge/GENAI%20TESTING-green?style=for-the-badge)
+![AI_Application_Testing](https://img.shields.io/badge/AI%20Application%20Testing-green?style=for-the-badge)
 
 ---
 
