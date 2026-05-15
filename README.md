@@ -1,10 +1,9 @@
 Shruti Gore 
 ---
-![Open To Work](https://img.shields.io/badge/Open%20To%20Work-purple?style=for-the-badge)
-
-___
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-green?style=for-the-badge)
 
 SDET | Test Automation Engineer | Always Upskilling 🚀
+
 I show up fully — patient, persistent, and genuinely passionate about what I do.
 As an SDET, that means staying committed, working through challenges with focus, and not stopping until I get things right.
 
