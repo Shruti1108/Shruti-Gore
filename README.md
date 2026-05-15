@@ -36,6 +36,7 @@ That’s who I am — in testing and outside of it too.
 ![SDLC](https://img.shields.io/badge/SDLC-orange?style=for-the-badge)
 ![Agile Scrum](https://img.shields.io/badge/AGILE%20SCRUM-blue?style=for-the-badge)
 ![Defect Management](https://img.shields.io/badge/DEFECT%20MANAGEMENT-red?style=for-the-badge)
+![](https://img.shields.io/badge/DEFECT%20MANAGEMENT-red?style=for-the-badge)
 
 ---
 
